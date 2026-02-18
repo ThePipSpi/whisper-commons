@@ -1,0 +1,13 @@
+# Lua
+*.luac
+
+# World of Warcraft Addon files
+*.toc
+*.xml
+*.lua
+*.txt
+*.local
+
+# Cache and temporary files
+.cache/
+.temp/
